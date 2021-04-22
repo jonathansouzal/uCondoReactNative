@@ -12,7 +12,6 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		6EF37FB418186323C1B263B3 /* libPods-UCondo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9764C5BABBD04A65F69C34F1 /* libPods-UCondo.a */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		C369679EB29878E4632BCE24 /* libPods-UCondo-UCondoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 735ED47F27BD64E5D41F4363 /* libPods-UCondo-UCondoTests.a */; };
 /* End PBXBuildFile section */
 
